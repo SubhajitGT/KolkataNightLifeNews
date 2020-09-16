@@ -1,1 +1,2 @@
 # KolkataNightLifeNews
+Kolkata Night Life News is a facebook page which tells about the night life of Kolkata as well as the bars open in the late night. You can find schedule of upcoming bar/resturant shows. Many famous DJs and well known bollywood singers performance stored here in audio/video file format. This is also a partial E-commerce application where Kolkata Night Life News original products are on sale.
