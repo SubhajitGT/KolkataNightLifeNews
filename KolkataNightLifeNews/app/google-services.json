@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562267435385",
+    "firebase_url": "https://kolkatanightlifenews-75cad.firebaseio.com",
+    "project_id": "kolkatanightlifenews-75cad",
+    "storage_bucket": "kolkatanightlifenews-75cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562267435385:android:6cbd0aa49fca5357",
+        "android_client_info": {
+          "package_name": "com.example.kolkatanightlifenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562267435385-aadlvp7rnp018eol7sviu7of4lj47lpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtalNlm_7KXNA4qrVmMYFaDlFtI_FvoMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562267435385-aadlvp7rnp018eol7sviu7of4lj47lpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

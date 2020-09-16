@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_post"
+            android:icon="@drawable/ho"
+            android:title="Post Something"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_images"
+            android:icon="@drawable/im"
+            android:title="Images"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ev"
+            android:title="Events"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_videos"
+            android:icon="@drawable/vid"
+            android:title="Videos"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_songs"
+            android:icon="@drawable/sg"
+            android:title="Songs"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_artists"
+            android:icon="@drawable/at"
+            android:title="Artists"
+            android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/sp"
+            android:title="Shop"
+            android:iconTint="@android:color/white"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>
